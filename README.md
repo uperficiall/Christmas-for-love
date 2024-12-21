@@ -66,7 +66,7 @@
 			myAuto.play();
 		}, true);
 
-		// 用定时器触发事件
+		// 用定时器触发事件1
 		setInterval(function() {
 			if ("createEvent" in document) {
 				var evt = document.createEvent("HTMLEvents");

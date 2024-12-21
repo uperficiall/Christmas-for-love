@@ -38,9 +38,6 @@
 		<div id="main">
 			<video id="video1" muted="muted" autoplay="autoplay" loop="loop" src="./video/chrismas.mp4">
 			</video>
-			<audio id="music1" autostart="true" loop="loop" preload="auto" controls hidden="true">
-				<source src="./music/jinniandongtianpeizhewoba.mp3"></source>
-			</audio>
 
 		</div>
 
